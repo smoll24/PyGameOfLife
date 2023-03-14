@@ -5,7 +5,7 @@ import random
 # Set up the display
 pygame.init()
 screen = pygame.display.set_mode((500, 500)) 
-pygame.display.set_caption("100-pixel Grid")
+pygame.display.set_caption("PyGame of Life")
 
 # Define colors
 BLACK = (0, 0, 0)
