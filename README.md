@@ -1,4 +1,4 @@
-# PyGame of Life
+# Conway's PyGame of Life
 This is a Python implementation of Conway's Game of Life using Pygame. The simulation is displayed on a 500x500 screen, where cells are color-coded based on the number of live neighbors they have.
 
 ### How to Play
