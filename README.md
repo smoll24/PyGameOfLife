@@ -13,6 +13,7 @@ The game progresses through a series of generations, where the state of each cel
 * A live cell with two or three live neighbors survives to the next generation.
 * A live cell with more than three live neighbors dies (overpopulation).
 * A dead cell with exactly three live neighbors becomes alive (reproduction).
+
 With these simple rules, complex patterns can emerge, including oscillators, gliders, and spaceships.
 
 ### How to Run
