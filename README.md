@@ -19,4 +19,4 @@ With these simple rules, complex patterns can emerge, including oscillators, gli
 ![image](https://user-images.githubusercontent.com/115204665/226490892-b9ac684a-bba2-4526-8975-91fb92497d92.png)
 
 ### How to Run
-To run the game, simply execute the conway.py script.
+To run the game, simply execute the pygame_of_life.py script.
