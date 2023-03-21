@@ -16,6 +16,8 @@ The game progresses through a series of generations, where the state of each cel
 
 With these simple rules, complex patterns can emerge, including oscillators, gliders, and spaceships.
 
+To learn more about the Egyptian method, see the Wikipedia page: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+
 ![image](https://user-images.githubusercontent.com/115204665/226490892-b9ac684a-bba2-4526-8975-91fb92497d92.png)
 
 ### How to Run
