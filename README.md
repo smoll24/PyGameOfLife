@@ -2,7 +2,7 @@
 This is a Python implementation of Conway's Game of Life using Pygame. The simulation is displayed on a 500x500 screen, where cells are color-coded based on the number of live neighbors they have.
 
 ### How to Use
-To start the simulation, click the "Start" button. To stop the simulation, click the "Stop" button. To clear the screen, click the "Clear" button. To randomize the cells on the screen, click the "Randomize" button.
+To start the simulation, click the "Start" button. To stop the simulation, click the "Stop" button. To clear the screen, click the "Clear" button. To randomize the cells on the screen, click the "Random" button.
 
 ### How it Works
 Conway's Game of Life is a cellular automaton created by mathematician John Conway in 1970. The game is played on a two-dimensional grid of cells, where each cell can be in one of two states: alive or dead.
